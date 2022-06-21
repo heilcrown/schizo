@@ -7,3 +7,10 @@ h1 {
 
     text-align:center;
 }
+
+a:link{
+    color:black;
+}
+a:visited{
+    color:rgb(0, 0, 0);
+}
